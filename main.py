@@ -14,6 +14,7 @@ def welcome():
                 You will be playing against the computer today.
                 The computer will randomly choose a word and you will try to guess what the word is.
                 You can always invite your friends for a fun time together
+                You have 6 Lives.
                 ==========================================================
                 Good Luck! Have fun playing""")
     else:
